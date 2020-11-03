@@ -60,7 +60,8 @@
     height: 30px;
     margin-left: 100px;
     background-color: white;
-    border: 1px; solid; color:#1DA1FA;  
+    border: 1px solid; 
+    border-color: #1089D3;
     color: #1DA1FA;
     border-radius: 25px;
     font-size: 15px;
